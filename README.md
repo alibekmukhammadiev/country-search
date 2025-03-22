@@ -19,15 +19,6 @@ Welcome to Country Explorer, a web application built with React, REST Countries 
 - REST Countries API
 - Leaflet JS
 
-## Getting Started
-
-- To view the app, make sure you configure API key then simply open the `index.html` file in your web browser.
-
-- To modify the app, you can edit the HTML, CSS, and JavaScript files as needed.
-
-- Please feel free to access my hosted website at [**Yummify**](https://yummify-food-recipe.netlify.app/) 🔗 to view my work and learn more about my skills and experience.
-
-
 ## Demo
 ![GIF](demo.gif)
 
